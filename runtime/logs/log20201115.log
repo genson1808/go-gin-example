@@ -3,3 +3,7 @@
 [INFO][article.go:132]2020/11/15 01:32:31 [desc: cannot be blank; title: cannot be blank.]
 [INFO][context.go:161]2020/11/15 01:53:43 [desc: cannot be blank; title: cannot be blank.]
 [INFO][article.go:132]2020/11/15 01:54:53 [desc: cannot be blank; title: cannot be blank.]
+[INFO][auth.go:48]2020/11/15 20:12:49 [Password: cannot be blank; Username: cannot be blank.]
+[INFO][auth.go:48]2020/11/15 20:13:09 [Password: cannot be blank; Username: cannot be blank.]
+[INFO][auth.go:48]2020/11/15 21:51:07 [Password: cannot be blank; Username: cannot be blank.]
+[INFO][auth.go:48]2020/11/15 21:51:18 [Password: cannot be blank; Username: cannot be blank.]
